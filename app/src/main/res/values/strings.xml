@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ORM</string>
+    <string name="btn_write">write</string>
+    <string name="hint_memo">Input your memo</string>
+    <string name="btn_x">x</string>
+</resources>
